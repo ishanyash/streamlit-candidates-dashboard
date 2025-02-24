@@ -5,3 +5,4 @@ duckdb
 pyarrow
 openpyxl
 scipy
+scikit-learn
